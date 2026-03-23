@@ -3,7 +3,7 @@
 
 date: 19 march 2026 – 23 march 2026
  
-i started this project out of pure curiosity to see what bioinformatics actually looks like in practice. following this youtube video and a publicly available dataset on idiopathic pulmonary fibrosis (IPF), i followed a basic workflow to explore gene expression patterns. i barely had any prior python knowledge before doing this project (i’m not fully versed on python yet) and you could say i learnt a tiny bit of python as i went, so you’ll find plenty of random notes to myself in the code/this file! this probably looks a little all over the place in the eyes of a seasoned cs student, so don’t come at me :(
+i started this project out of pure curiosity to see what bioinformatics actually looks like in practice. following [this](https://youtu.be/3XFpxQF0J74?si=uYGMq5FpZXhGj4ei) youtube video and a publicly available dataset on idiopathic pulmonary fibrosis (IPF), i followed a basic workflow to explore gene expression patterns. i barely had any prior python knowledge before doing this project (i’m not fully versed on python yet) and you could say i learnt a tiny bit of python as i went, so you’ll find plenty of random notes to myself in the code/this file! this probably looks a little all over the place in the eyes of a seasoned cs student, so don’t come at me :(
 
 
 ### the dataset and the tools i used
