@@ -74,29 +74,41 @@ the Hallmark collection is part of the Molecular Signatures Database (MSigDB). u
 
 when i ran the genes through Enrichr and the graphs for these processes came up, i felt a rush of elation because everything came into place and finally made sense. all this time i was poking at codes and trying to make sense of some rather daunting graphs :( so seeing this felt so cool! 
 
-**GO cellular component (upregulated genes)**
+**GO cellular component (upregulated)**
 
-<img src="GO_upreg.png" width="700">
 
-**GO cellular component (downregulated genes)**
+<img src="results/enrichment/GO_upreg.png" width="700">
 
-<img src="GO_downreg.png" width="700">
 
-**KEGG (upregulated genes)**
+**GO cellular component (downregulated)**
 
-<img src="KEGG_upreg.png" width="700">
 
-**KEGG (downregulated genes)**
+<img src="results/enrichment/GO_downreg.png" width="700">
 
-<img src="KEGG_downreg.png" width="700">
 
-**Hallmark (upregulated genes)**
+**KEGG (upregulated)**
 
-<img src="hallmark_upreg.png" width="700">
 
-**Hallmark (downregulated genes)**
+<img src="results/enrichment/KEGG_upreg.png" width="700">
 
-<img src="hallmark_downreg.png" width="700">
+
+**KEGG (downregulated)**
+
+
+<img src="results/enrichment/KEGG_downreg.png" width="700">
+
+
+**Hallmark (upregulated)**
+
+
+<img src="results/enrichment/hallmark_upreg.png" width="700">
+
+
+**Hallmark (downregulated)**
+
+
+<img src="results/enrichment/hallmark_downreg.png" width="700">
+
 
 **A. upregulated gene**
 
