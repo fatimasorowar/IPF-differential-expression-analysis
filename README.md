@@ -161,7 +161,7 @@ above, we saw that the upregulated genes show the lung aggressively building a s
 
 this figure is from [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC6111543/figure/jcm-07-00201-f001/)
 
-this is a diagram i found from here. this was so insanely cool to look at because i could connect whatever i learnt to some of the things labelled here!! 
+this was so insanely cool to look at because i could connect whatever i learnt to some of the things labelled here!! 
 
 for example, if you look at the bottom right corner of the diagram for the IPF cell, you'll notice "epithelial-mesenchymal cross talk and EMT," which is exactly what the Hallmark analysis showed on top of the list. EMT is probably driving this transformation, and IGFL2 is most likely the growth factor causing this :O 
 another one is "ECM deposition" on the right, which is the physical manifestation of the number 1 GO results that came back (collagen-containing extracellular matrix), and COL17A1 could be the gene involved with this process. 
