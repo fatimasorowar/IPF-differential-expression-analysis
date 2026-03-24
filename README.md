@@ -58,7 +58,7 @@ there are 4 quadrants, but we mainly look at the:
 - top left blue block: these are the genes that are normally "on" in healthy lungs, but have been turned off in IPF patients.
 - the bottom left red block: these genes are turned off in healthy lungs, but are turned on in IPF patients. 
 - there are some white boxes on the top and on the left side of the heatmap, and they kind of resemble phylogenetic trees i've come across before. these are called dendograms. the top dendogram (the samples) groups the patients, and there are two main groups (control vs IPF samples). if a control sample accidentally ended up in the IPF branch, it would tell us that the patient’s biological profile looks more like a sick person's than a healthy one. 
-- the left denogram (genes) groups genes that behave the same way. for example, all the genes involved in extracellular matrix organization will probably be clustered together because they all turn on at the same time to build the scar tissue.
+- the left dendogram (genes) groups genes that behave the same way. for example, all the genes involved in extracellular matrix organization will probably be clustered together because they all turn on at the same time to build the scar tissue.
   
 this heatmap is proof that all the 174 genes found are consistent and shows a sharp contrast between healthy and sick tissue (the quadrants). 
 
@@ -178,7 +178,7 @@ while this analysis did give some meaningful insights, there are a few important
 - the dataset itself represents a snapshot in time, so it does not capture how gene expression changes over the progression of the disease
 
 ### conclusion
-i'm not very sure what to write here, but i assume from the analysis presented above future treatments for IPF patients should focus on restoring the metabolic health and surfactant production of the remaining lung cells (downregulated genes) as well as stopping the scar (upregulated genes).
+i'm not very sure what to write here, but i assume from the analysis presented above, future treatments for IPF patients should focus on restoring the metabolic health and surfactant production of the remaining lung cells (downregulated genes) as well as stopping the scar (upregulated genes).
 
 ***
 
